@@ -110,7 +110,7 @@ NEXT_PUBLIC_FINNHUB_API_KEY=your_finnhub_api_key
 
 🧑‍💻 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/Sooyaaa/signalist.git
+git clone https://github.com/Sooyaaa98/Signalist_stock-tracker-app
 cd signalist
 
 2️⃣ Install dependencies
